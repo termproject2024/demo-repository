@@ -1,4 +1,20 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# ♻ 대형 폐기물 분류 및 인공지능 활용 프로젝트
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+**목적**: 대형 폐기물(침대, 서랍장, 소파 등)의 자동 인식 및 분류 시스템 구축<br>
+
+**중점**: 객체 검출(Segmentation) 및 분류 모델 적용<br>
+- YOLO 및 Faster R-CNN을 활용한 AI 기반 폐기물 인식<br>
+
+- AWS 연동을 통한 모델 배포 및 실시간 탐지<br>
+
+- 최적의 데이터셋 구축 및 전처리 (크롤링 & 수집)<br>
+
+# 📌 주요 기능
+# 👥 팀 소개
+**팀장 :  임도영**  
+**팀원 : 김민규 / 임준영 / 정성아**  
+
+🚀 AI 기반 혁신적인 솔루션 개발을 목표로 하는 팀입니다.<br>
+💡 폐기물 분류 및 처리 시스템의 효율성 증대를 위해 연구 중<br>
+📩 문의: your_email@example.com<br>
+📌 GitHub: https://github.com/your_project<br>
